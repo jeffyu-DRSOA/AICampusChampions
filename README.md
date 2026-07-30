@@ -13,4 +13,4 @@ This is an example of a text
 
 or use Markdown
 
-![](https://github.com/jeffyu-DRSOA/AICampusChampions/blob/main/images/redrock.jpg)
+![](https://github.com/jeffyu-DRSOA/AICampusChampions/blob/main/images/Mod1image.jpg)
