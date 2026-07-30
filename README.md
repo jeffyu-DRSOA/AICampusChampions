@@ -9,8 +9,8 @@ This is an example of a text
 
 ***
 
-<p><img src="https://github.com/jieweiyu-ua/AICampusChampions/blob/main/images/Mod1image.jpg">
+<p><img src="https://github.com/jeffyu-DRSOA/AICampusChampions/blob/main/images/Mod1image.jpg">
 
 or use Markdown
 
-![](https://github.com/jieweiyu-ua/AICampusChampions/blob/main/images/Mod1image.jpg)
+![](https://github.com/jeffyu-DRSOA/AICampusChampions/blob/main/images/redrock.jpg)
